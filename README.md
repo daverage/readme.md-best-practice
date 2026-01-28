@@ -1,4 +1,33 @@
+# ![Project Header](header.png)
+
 # Best Practices for Writing a README.md (2026 Edition)
+
+A great README turns a repository from a collection of files into a welcoming, self‑explanatory project. It shortens a newcomer’s **Time‑to‑Hello‑World**—the time it takes someone to clone, install and run your project. Data from recent analyses of hundreds of popular GitHub projects show that developers judge code quality by your README’s clarity and completeness.
+
+---
+
+## 📌 Key Principles
+
+- ✅ **Time-to-Hello-World**: New users should be able to clone, install, and run your project in under 10 minutes.
+- ✅ **Progressive Disclosure**: Structure information for casual readers, serious users, and contributors.
+- ✅ **AI & Human Readability**: Include structured file trees, Mermaid.js diagrams, and machine-parsable config blocks.
+
+---
+
+## 📋 Contents
+
+1. [The Hook](#1-the-hook)
+2. [The Proof](#2-the-proof)
+3. [The Instruction](#3-the-instruction)
+4. [The Context](#4-the-context)
+5. [Modern Features for AI & DevTools](#5-modern-features-for-ai--devtools)
+6. [Visual Documentation Standards](#6-visual-documentation-standards)
+7. [Copy-Paste Confidence](#7-copy-paste-confidence)
+8. [Rot Prevention](#8-rot-prevention)
+9. [Style, Tone & Global Reach](#9-style-tone--global-reach)
+10. [README Checklist](#10-readme-checklist)
+
+---
 
 A great README turns a repository from a collection of files into a welcoming, self‑explanatory project. It shortens a newcomer's **Time‑to‑Hello‑World**-the time it takes someone to clone, install and run your project. Data from recent analyses of hundreds of popular GitHub projects show that developers judge code quality by your README's clarity and completeness. The recommendations below combine community conventions with findings from empirical studies of trending repositories.
 
